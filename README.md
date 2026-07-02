@@ -1,4 +1,13 @@
-# sales-performance-dashboard
+# 📈 Sales Performance Dashboard
+
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Data_Analysis-217346?logo=microsoftexcel)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+---
+
+## 📌 Project Overview
 End-to-End Sales Performance Analysis using SQL and Power BI.
 # 📈 Sales Performance Dashboard
 
@@ -235,9 +244,9 @@ sales-performance-dashboard
 
 ---
 
-## Geographic Analysis
+## Regional Analysis
 
-![Geographic_Analysis](Dashboard/Geographic_Analysis.png)
+![Regional_Analysis](Dashboard/Regional_Analysis.png)
 
 ---
 
@@ -251,7 +260,7 @@ sales-performance-dashboard
 
 ![Recommendations](Report/Recommendations.png)
 
-![Superstore_Business_Recommendations_Report](Report/Superstore_Business_Recommendations_Report.pdf)
+[View Full Business Report](report/Superstore_Business_Recommendations_Report.pdf)
 
 ---
 
@@ -300,7 +309,7 @@ Aspiring Data Analyst
 
 🔗 **LinkedIn:** *https://www.linkedin.com/in/van-serick-bouanga-latchybou-ab06483a8/*
 
-🔗 **GitHub:** *(Add your GitHub profile URL)*
+🔗 **GitHub:** *https://github.com/vanserick?tab=repositories*
 
 
 
