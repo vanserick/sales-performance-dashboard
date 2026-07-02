@@ -303,7 +303,7 @@ This analysis helps decision-makers:
 
 **Van Serick Bouanga Latchybou**
 
-Aspiring Data Analyst
+Data Analyst
 
 📌 Google Data Analytics Professional Certificate
 
